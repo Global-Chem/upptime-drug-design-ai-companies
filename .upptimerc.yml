@@ -3,8 +3,8 @@ owner: Global-Chem
 repo: upptime-drug-design-ai-companies
 
 sites:
-  - name: pic2 mol
-    url: https://www.pic2mol.com
+  - name: pic2mol
+    url: https://pic2mol.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
